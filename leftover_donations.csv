@@ -1,0 +1,101 @@
+Food Type,Title,Quantity,Location,Expiry,Description
+Prepared Meals,Rice & Curry,5 plates,Mumbai,2026-05-08,Fresh cooked rice and curry packed for donation
+Prepared Meals,Chapati & Sabzi,8 plates,Thane,2026-05-09,Homemade chapati with vegetable sabzi
+Prepared Meals,Veg Biryani,11 packets,Palghar,2026-05-10,Fresh vegetarian biryani packets
+Prepared Meals,Dal Khichdi,14 plates,Andheri,2026-05-11,Simple dal khichdi suitable for community meals
+Prepared Meals,Pulao Packets,17 packets,Borivali,2026-05-12,Cooked vegetable pulao packets
+Bakery Items,Bread Packets,20 packets,Dadar,2026-05-13,Unused fresh bread packets from bakery
+Bakery Items,Buns,23 packets,Navi Mumbai,2026-05-14,Fresh bakery buns available for donation
+Bakery Items,Biscuits Packets,26 packets,Vasai,2026-05-15,Sealed biscuit packets available
+Bakery Items,Cake Slices,29 boxes,Virar,2026-05-16,Fresh cake slices packed safely
+Bakery Items,Pav Packets,6 packets,Pune,2026-05-17,Fresh pav packets from bakery
+Fruits,Banana Box,9 kg,Mumbai,2026-05-18,Fresh bananas available for donation
+Fruits,Apple Crates,12 kg,Thane,2026-05-19,Fresh apples packed in crates
+Fruits,Orange Basket,15 kg,Palghar,2026-05-08,Fresh oranges available
+Fruits,Mixed Fruit Box,18 kg,Andheri,2026-05-09,Assorted fresh fruits for donation
+Fruits,Mango Box,21 kg,Borivali,2026-05-10,Fresh mangoes available
+Vegetables,Fresh Vegetables,24 kg,Dadar,2026-05-11,Farm fresh mixed vegetables
+Vegetables,Potato Sack,27 kg,Navi Mumbai,2026-05-12,Fresh potatoes available in bulk
+Vegetables,Tomato Crate,30 kg,Vasai,2026-05-13,Fresh tomatoes available
+Vegetables,Onion Bag,7 kg,Virar,2026-05-14,Fresh onions packed for donation
+Vegetables,Leafy Vegetables,10 kg,Pune,2026-05-15,Fresh leafy vegetables available
+Dairy Products,Milk Packets,13 packets,Mumbai,2026-05-16,Sealed milk packets available
+Dairy Products,Curd Cups,16 cups,Thane,2026-05-17,Fresh packed curd cups
+Dairy Products,Paneer Packets,19 packets,Palghar,2026-05-18,Fresh paneer packets available
+Dairy Products,Buttermilk Bottles,22 bottles,Andheri,2026-05-19,Sealed buttermilk bottles
+Dairy Products,Cheese Slices,25 packets,Borivali,2026-05-08,Packed cheese slices available
+Prepared Meals,Rice & Curry,28 plates,Dadar,2026-05-09,Fresh cooked rice and curry packed for donation
+Prepared Meals,Chapati & Sabzi,5 plates,Navi Mumbai,2026-05-10,Homemade chapati with vegetable sabzi
+Prepared Meals,Veg Biryani,8 packets,Vasai,2026-05-11,Fresh vegetarian biryani packets
+Prepared Meals,Dal Khichdi,11 plates,Virar,2026-05-12,Simple dal khichdi suitable for community meals
+Prepared Meals,Pulao Packets,14 packets,Pune,2026-05-13,Cooked vegetable pulao packets
+Bakery Items,Bread Packets,17 packets,Mumbai,2026-05-14,Unused fresh bread packets from bakery
+Bakery Items,Buns,20 packets,Thane,2026-05-15,Fresh bakery buns available for donation
+Bakery Items,Biscuits Packets,23 packets,Palghar,2026-05-16,Sealed biscuit packets available
+Bakery Items,Cake Slices,26 boxes,Andheri,2026-05-17,Fresh cake slices packed safely
+Bakery Items,Pav Packets,29 packets,Borivali,2026-05-18,Fresh pav packets from bakery
+Fruits,Banana Box,6 kg,Dadar,2026-05-19,Fresh bananas available for donation
+Fruits,Apple Crates,9 kg,Navi Mumbai,2026-05-08,Fresh apples packed in crates
+Fruits,Orange Basket,12 kg,Vasai,2026-05-09,Fresh oranges available
+Fruits,Mixed Fruit Box,15 kg,Virar,2026-05-10,Assorted fresh fruits for donation
+Fruits,Mango Box,18 kg,Pune,2026-05-11,Fresh mangoes available
+Vegetables,Fresh Vegetables,21 kg,Mumbai,2026-05-12,Farm fresh mixed vegetables
+Vegetables,Potato Sack,24 kg,Thane,2026-05-13,Fresh potatoes available in bulk
+Vegetables,Tomato Crate,27 kg,Palghar,2026-05-14,Fresh tomatoes available
+Vegetables,Onion Bag,30 kg,Andheri,2026-05-15,Fresh onions packed for donation
+Vegetables,Leafy Vegetables,7 kg,Borivali,2026-05-16,Fresh leafy vegetables available
+Dairy Products,Milk Packets,10 packets,Dadar,2026-05-17,Sealed milk packets available
+Dairy Products,Curd Cups,13 cups,Navi Mumbai,2026-05-18,Fresh packed curd cups
+Dairy Products,Paneer Packets,16 packets,Vasai,2026-05-19,Fresh paneer packets available
+Dairy Products,Buttermilk Bottles,19 bottles,Virar,2026-05-08,Sealed buttermilk bottles
+Dairy Products,Cheese Slices,22 packets,Pune,2026-05-09,Packed cheese slices available
+Prepared Meals,Rice & Curry,25 plates,Mumbai,2026-05-10,Fresh cooked rice and curry packed for donation
+Prepared Meals,Chapati & Sabzi,28 plates,Thane,2026-05-11,Homemade chapati with vegetable sabzi
+Prepared Meals,Veg Biryani,5 packets,Palghar,2026-05-12,Fresh vegetarian biryani packets
+Prepared Meals,Dal Khichdi,8 plates,Andheri,2026-05-13,Simple dal khichdi suitable for community meals
+Prepared Meals,Pulao Packets,11 packets,Borivali,2026-05-14,Cooked vegetable pulao packets
+Bakery Items,Bread Packets,14 packets,Dadar,2026-05-15,Unused fresh bread packets from bakery
+Bakery Items,Buns,17 packets,Navi Mumbai,2026-05-16,Fresh bakery buns available for donation
+Bakery Items,Biscuits Packets,20 packets,Vasai,2026-05-17,Sealed biscuit packets available
+Bakery Items,Cake Slices,23 boxes,Virar,2026-05-18,Fresh cake slices packed safely
+Bakery Items,Pav Packets,26 packets,Pune,2026-05-19,Fresh pav packets from bakery
+Fruits,Banana Box,29 kg,Mumbai,2026-05-08,Fresh bananas available for donation
+Fruits,Apple Crates,6 kg,Thane,2026-05-09,Fresh apples packed in crates
+Fruits,Orange Basket,9 kg,Palghar,2026-05-10,Fresh oranges available
+Fruits,Mixed Fruit Box,12 kg,Andheri,2026-05-11,Assorted fresh fruits for donation
+Fruits,Mango Box,15 kg,Borivali,2026-05-12,Fresh mangoes available
+Vegetables,Fresh Vegetables,18 kg,Dadar,2026-05-13,Farm fresh mixed vegetables
+Vegetables,Potato Sack,21 kg,Navi Mumbai,2026-05-14,Fresh potatoes available in bulk
+Vegetables,Tomato Crate,24 kg,Vasai,2026-05-15,Fresh tomatoes available
+Vegetables,Onion Bag,27 kg,Virar,2026-05-16,Fresh onions packed for donation
+Vegetables,Leafy Vegetables,30 kg,Pune,2026-05-17,Fresh leafy vegetables available
+Dairy Products,Milk Packets,7 packets,Mumbai,2026-05-18,Sealed milk packets available
+Dairy Products,Curd Cups,10 cups,Thane,2026-05-19,Fresh packed curd cups
+Dairy Products,Paneer Packets,13 packets,Palghar,2026-05-08,Fresh paneer packets available
+Dairy Products,Buttermilk Bottles,16 bottles,Andheri,2026-05-09,Sealed buttermilk bottles
+Dairy Products,Cheese Slices,19 packets,Borivali,2026-05-10,Packed cheese slices available
+Prepared Meals,Rice & Curry,22 plates,Dadar,2026-05-11,Fresh cooked rice and curry packed for donation
+Prepared Meals,Chapati & Sabzi,25 plates,Navi Mumbai,2026-05-12,Homemade chapati with vegetable sabzi
+Prepared Meals,Veg Biryani,28 packets,Vasai,2026-05-13,Fresh vegetarian biryani packets
+Prepared Meals,Dal Khichdi,5 plates,Virar,2026-05-14,Simple dal khichdi suitable for community meals
+Prepared Meals,Pulao Packets,8 packets,Pune,2026-05-15,Cooked vegetable pulao packets
+Bakery Items,Bread Packets,11 packets,Mumbai,2026-05-16,Unused fresh bread packets from bakery
+Bakery Items,Buns,14 packets,Thane,2026-05-17,Fresh bakery buns available for donation
+Bakery Items,Biscuits Packets,17 packets,Palghar,2026-05-18,Sealed biscuit packets available
+Bakery Items,Cake Slices,20 boxes,Andheri,2026-05-19,Fresh cake slices packed safely
+Bakery Items,Pav Packets,23 packets,Borivali,2026-05-08,Fresh pav packets from bakery
+Fruits,Banana Box,26 kg,Dadar,2026-05-09,Fresh bananas available for donation
+Fruits,Apple Crates,29 kg,Navi Mumbai,2026-05-10,Fresh apples packed in crates
+Fruits,Orange Basket,6 kg,Vasai,2026-05-11,Fresh oranges available
+Fruits,Mixed Fruit Box,9 kg,Virar,2026-05-12,Assorted fresh fruits for donation
+Fruits,Mango Box,12 kg,Pune,2026-05-13,Fresh mangoes available
+Vegetables,Fresh Vegetables,15 kg,Mumbai,2026-05-14,Farm fresh mixed vegetables
+Vegetables,Potato Sack,18 kg,Thane,2026-05-15,Fresh potatoes available in bulk
+Vegetables,Tomato Crate,21 kg,Palghar,2026-05-16,Fresh tomatoes available
+Vegetables,Onion Bag,24 kg,Andheri,2026-05-17,Fresh onions packed for donation
+Vegetables,Leafy Vegetables,27 kg,Borivali,2026-05-18,Fresh leafy vegetables available
+Dairy Products,Milk Packets,30 packets,Dadar,2026-05-19,Sealed milk packets available
+Dairy Products,Curd Cups,7 cups,Navi Mumbai,2026-05-08,Fresh packed curd cups
+Dairy Products,Paneer Packets,10 packets,Vasai,2026-05-09,Fresh paneer packets available
+Dairy Products,Buttermilk Bottles,13 bottles,Virar,2026-05-10,Sealed buttermilk bottles
+Dairy Products,Cheese Slices,16 packets,Pune,2026-05-11,Packed cheese slices available
